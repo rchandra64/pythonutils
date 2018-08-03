@@ -10,4 +10,5 @@ RandomLinesFromLargeFile.py
   
   RandomLinesFromLargeFile helps you choosing the random records and for 38 Million records, it takes approzimately 15 minutes.
   
-  Usage: RandomLinesFromNetwise.py -e <number of lines to extract> -t  <total number of lines in input file -i <input file path> -o <output file path>
+  Usage: RandomLinesFromLargeFile.py -e <number of lines to extract> -t  <total number of lines in input file -i <input file path> -o <output file path>
+
